@@ -7,3 +7,4 @@ cd python-othello
 # 実行
 python othello.py
 📂 ファイル構成othello.py: メインのロジック、GUI描画、AIアルゴリズムをすべて含む実行ファイル。⚙️ ゲーム設定（定数）コード上部の定数を変更することで、簡単にゲームバランスをカスタマイズできます。定数説明SIZE盤面のサイズ（デフォルトは 8x8）CELL_SIZE1マスのピクセルサイズWEIGHTSAI（Hard）が使用する座標ごとの優先度スコア📝 ライセンスMIT License
+<img width="628" height="746" alt="スクリーンショット 2026-05-08 091852" src="https://github.com/user-attachments/assets/d91743a8-ffb6-4e42-bd2c-782e0521cc95" />
